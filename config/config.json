@@ -10,7 +10,7 @@
   "SYMBOL": "PaintedPepes",
   "MAX_SUPPLY": 3300,
   "FREE_SUPPLY": 0,
-  "DISPLAY_COST": 0.0025,
+  "DISPLAY_COST": 0.001,
   "GAS_LIMIT": 145000,
   "MAX_PER_TX": 15,
   "MAX_PER_TX_FREE": 1,
